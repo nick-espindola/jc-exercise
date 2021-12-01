@@ -4,3 +4,7 @@ I was tasked with an exercise to Expose and HTTP endpoint at the URL /manage_fil
 I built this using PyCharm with Flask, I created a virtual environment in PyCharm to build it out, which was pretty helpful with creating it.  Make sure you have Python3 installed.
 
 I put the files in here in Github as a test then did a little pipeline with them and merged to main.
+
+Install - 
+PyCharm
+Python3
