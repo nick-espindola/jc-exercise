@@ -34,4 +34,3 @@ class TestAPI(unittest.TestCase):
     if __name__ == "__main__":
         unittest.main()
         
-        #tester.test_2_get_all_todo
